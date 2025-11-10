@@ -37,4 +37,5 @@ Colab will automatically install required Python packages like `pandas`, `numpy`
 **Ranjith.V.R**  
 *M.S. Research Scholar – IIT Madras*  
 **Course:** DA5401 – Data Analytics Laboratory
-**Assignment:** A7 – Model Selection using UCI Satimage Dataset  
+**Assignment:** A8 –Ensemble Learning for Complex Regression
+Modeling on Bike Share Data
